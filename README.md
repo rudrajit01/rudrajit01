@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://github.com/rudrajit01" target="_blank">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6C63FF&height=200&text=Rudrajit%20Pramanik&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Building%20Secure%20Systems%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=20" 
-      alt="Header" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6C63FF&height=200&text=Rudrajit%20Pramanik&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=IT%20Administrator%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=60&descSize=20" 
     />
   </a>
 </p>
