@@ -1,25 +1,36 @@
-<!-- Waving Banner at Top -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Cybersecurity+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
-</p>
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Rudrajit. I am a Cybersecurity Enthusiast!" src="./assets/gh-readme-header.png" /></a></p>
-
-
-<h3 align="center">IT Administrator & Web Developer at Origin Agro | Cybersecurity Enthusiast | B.E. CSE (Cyber Security) Student at Chandigarh University</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rudrajit01&label=Profile%20views&color=0e75b6&style=flat" alt="rudrajit01" />
-  <a href="https://x.com/Rudrajitpraman1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Rudrajitpraman1?style=for-the-badge&logo=twitter&label=Follow" alt="Twitter Follow" />
+  <a href="https://github.com/rudrajit01" target="_blank">
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6C63FF&height=200&text=Rudrajit%20Pramanik&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Building%20Secure%20Systems%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=20" 
+      alt="Header" 
+    />
   </a>
 </p>
 
----
+<!-- টাইপিং অ্যানিমেশন (ছোট ও প্রফেশনাল) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Cyber+Security+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Tech" alt="Typing animation" />
+</p>
+
+<!-- আপনার পরিচয় (৩ লাইনে ভাগ করে দেওয়া হলো, যা আগে ১ লাইনে ছিল) -->
+<p align="center">
+  💼 <strong>IT Administrator & Web Developer</strong> at Origin Agro &nbsp;|&nbsp;
+  🛡️ <strong>Cybersecurity Enthusiast</strong> &nbsp;|&nbsp;
+  🎓 B.E. CSE (Cyber Security) @ Chandigarh University
+</p>
+
+<!-- ভিজিটর ও সোশ্যাল ব্যাজ (এক্সট্রা সোশ্যাল লিংক যোগ করে দিলাম) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrajit01&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <a href="https://x.com/Rudrajitpraman1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/rudrajit01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<hr>
 
 ## 👨‍💻 About Me
 
@@ -47,17 +58,29 @@
 </p>
 
 ---
-## 📊 GitHub Statistics
 
-<!-- Contribution Graph (অপশনাল, কিন্তু ভালো দেখায়) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
-</div>
-
+<h3 align="center">⚡ Tech Stack & Tools</h3>
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
+  <!-- প্রোগ্রামিং ল্যাঙ্গুয়েজ -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+
+ <!-- ফ্রেমওয়ার্ক ও টুলস -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br>
+  <!-- সাইবার সিকিউরিটি টুলস -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <br>
+  <!-- ডাটাবেস ও ক্লাউড -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -148,10 +171,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
+</p>
 
 ---
 
+<h3 align="center">📈 GitHub Analytics</h3>
+
+<!-- 🔥 স্ট্রিক কার্ড (ঐচ্ছিক, কিন্তু ভালো দেখায়) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrajit01&theme=dark&background=0a0a0a&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
+
+## 📊 GitHub Statistics
+
+<!-- Contribution Graph (অপশনাল, কিন্তু ভালো দেখায়) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
+</div>
+
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
+
+---
+
 ## 🎓 Certifications & Learning
 
 ### 🔐 Cybersecurity
@@ -179,16 +225,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake.svg">
-    <img src="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake.svg" alt="GitHub Snake">
-  </picture>
-</div>
-
 ## 👾 Pacman Contribution Graph
 
 <picture>
@@ -196,25 +232,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rudrajit01/rudrajit01/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
+<p align="center">
+  <i>"Securing the digital world, one line of code at a time."</i> 🔒
+</p>
 
-
-
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Building+%7C+Learning+%7C+Innovating;Star+a+repo+if+you+like+it+%E2%AD%90" alt="Footer typing" />
 </p>
+
 <!-- Waving Banner at Bottom -->
-</div> 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=120&section=footer" width="100%" />
-
-
-
-
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=120&section=footer" width="100%" />
+</div>
