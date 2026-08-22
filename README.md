@@ -52,6 +52,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
 </div>
 
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
