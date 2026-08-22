@@ -173,13 +173,13 @@
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/snake-output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/snake-output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rudrajit01/rudrajit01/snake-output/snake.svg" />
-</picture>
-
----
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake.svg">
+    <img src="https://raw.githubusercontent.com/rudrajit01/rudrajit01/main/.github/assets/snake.svg" alt="GitHub Snake">
+  </picture>
+</div>
 
 ## 👾 Pacman Contribution Graph
 
