@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # প্রতিদিন UTC সময়ে রাত ১২টায় অটোমেটিকভাবে রান করবে[reference:9]
+  workflow_dispatch:     # ম্যানুয়ালি রান করার অপশন[reference:10]
+
+jobs:
+  generate:
+    permissions:
+      contents: write    # রিপোজিটরিতে ফাইল পুশ করার অনুমতি[reference:11]
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3  # স্নেক জেনারেট করার অ্যাকশন[reference:12]
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            .github/assets/snake.svg
+            .github/assets/snake-dark.svg?palette=github-dark
+
+      - name: Force commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/ --force
+          git commit -m "force: update snake heatmap [skip ci]" || true
+          git push origin HEAD:main --force
