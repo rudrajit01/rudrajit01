@@ -132,35 +132,45 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
-</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<!-- এক লাইনে Stats + Streak (ডুপ্লিকেট নেই) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrajit01&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrajit01&theme=dracula&hide_border=true&background=0D1117&ring=6C63FF&fire=F59E0B&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
-</div>
 
-<!-- এক লাইনে Top Languages + Trophy (ডুপ্লিকেট নেই) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrajit01&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-  <img src="https://raw.githubusercontent.com/rudrajit01/rudrajit01/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophy" width="48%" />
-</div>
 
 <!-- Contribution Graph (অপশনাল, কিন্তু ভালো দেখায়) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
 </div>
+
+---
+## 🎓 Certifications & Learning
+
+### 🔐 Cybersecurity
+- 🛡️ Cybersecurity Fundamentals
+- 🔍 Ethical Hacking & Vulnerability Assessment
+- 🌐 Network Security
+- 🕵️ Digital Forensics
+
+### 💻 Software Development
+- ⚛️ React & Frontend Development
+- 🌐 MERN Stack Development
+- ☕ Java & Spring Boot
+- 🐍 Python Development
+
+### 🤖 Artificial Intelligence
+- 🧠 AI/ML Fundamentals
+- 🤖 Generative AI & LLM Applications
+- 🔎 AI-powered Application Development
+
+### 🗄️ Core Computer Science
+- 🗃️ Database Management Systems
+- ⚙️ Operating Systems
+- 🧮 Data Structures & Algorithms
+- 🌐 Computer Networks
 
 ---
 
