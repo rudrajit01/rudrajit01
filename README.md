@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Cybersecurity+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rudrajit Pramanik</h1>
@@ -45,6 +45,12 @@
 </p>
 
 ---
+## 📊 GitHub Statistics
+
+<!-- Contribution Graph (অপশনাল, কিন্তু ভালো দেখায়) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
+</div>
 
 ## 🛠️ Languages & Tools
 
@@ -137,15 +143,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-
-
-<!-- Contribution Graph (অপশনাল, কিন্তু ভালো দেখায়) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrajit01&bg_color=0D1117&color=6C63FF&line=F59E0B&point=6C63FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%" />
-</div>
-
 ---
 ## 🎓 Certifications & Learning
 
@@ -194,7 +191,23 @@
 
 ---
 
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Building+%7C+Learning+%7C+Innovating;Star+a+repo+if+you+like+it+%E2%AD%90" alt="Footer typing" />
+</p>
 <!-- Waving Banner at Bottom -->
+</div> 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=120&section=footer" width="100%" />
+
+
+
+
+
+
+
