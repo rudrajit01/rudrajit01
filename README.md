@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Cybersecurity+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rudrajit Pramanik</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Rudrajit. I am a Cybersecurity Enthusiast!" src="./assets/gh-readme-header.png" /></a></p>
+
+
 <h3 align="center">IT Administrator & Web Developer at Origin Agro | Cybersecurity Enthusiast | B.E. CSE (Cyber Security) Student at Chandigarh University</h3>
 
 <p align="left">
