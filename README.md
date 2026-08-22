@@ -3,13 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Head+of+IT+Administrator+in+Origin+Agro;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=600&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rudrajit Pramanik</h1>
 <h3 align="center">IT Administrator & Web Developer at Origin Agro | Cybersecurity Enthusiast | B.E. CSE (Cyber Security) Student at Chandigarh University</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rudrajit01&label=Profile%20views&color=0e75b6&style=flat" alt="rudrajit01" />
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://x.com/Rudrajitpraman1" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Rudrajitpraman1?style=for-the-badge&logo=twitter&label=Follow" alt="Twitter Follow" />
   </a>
 </p>
 
